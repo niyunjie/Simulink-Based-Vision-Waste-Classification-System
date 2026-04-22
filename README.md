@@ -1,1 +1,0 @@
-# STM32_Path-following-Mini-Car
